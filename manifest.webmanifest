@@ -1,0 +1,19 @@
+{
+  "name": "random Gaeme",
+  "short_name": "random Gaeme",
+  "description": "A lonely moss-ruin side-scroller roguelike demo.",
+  "start_url": "./bloodroot-citadel.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#080b07",
+  "theme_color": "#10150d",
+  "icons": [
+    {
+      "src": "./bloodroot-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
